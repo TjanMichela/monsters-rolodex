@@ -7,3 +7,11 @@
   line-height: 30px;
   margin-bottom: 30px;
 }
+
+::-webkit-input-placeholder {
+  text-align: center;
+}
+
+:-moz-placeholder {
+  text-align: center;
+}
